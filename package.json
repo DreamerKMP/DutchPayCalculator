@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "더치페이 계산하기 귀찮아서 만든 계산기",
   "main": "index.html",
-  "homepage": "https://DreamerKMP.github.io/csb-n56bi4",
+  "homepage": "https://DreamerKMP.github.io/DutchPayCalculator",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html",
