@@ -3,3 +3,5 @@ dist
 .cache
 yarn.lock
 package-lock.json
+.codesandbox
+.vscode
